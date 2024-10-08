@@ -44,7 +44,7 @@ menu:
       url: posts
       weight: 3
     - identifier: tags
-      name: 🧩 标签
+      name: 🧸 小玩具
       url: tags
       weight: 15
     - identifier: archives
