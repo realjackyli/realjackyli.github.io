@@ -28,6 +28,7 @@ cover:
     relative: false
 ---
 
+```html
 <p>hello！橘子的秘密基地已开放！欢迎来捧场呀~</p>
-
+```
 
