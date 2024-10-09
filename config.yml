@@ -100,7 +100,7 @@ params:
         url: posts/tech
       - name: 📕 阅读
         url: posts/read
-      - name: 🏖 生活
+      - name: 🗣 瞎78聊
         url: posts/life
 
   socialIcons:
