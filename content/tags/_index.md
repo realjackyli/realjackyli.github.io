@@ -1,5 +1,5 @@
 ---
-title: "🧩 标签"
-layout: tags
-summary: tags
+title: "🧸 小玩具"
+layout: toys
+summary: toys
 ---
