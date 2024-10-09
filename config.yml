@@ -43,10 +43,6 @@ menu:
       name: 📚 文章
       url: posts
       weight: 3
-    - identifier: toys
-      name: 🧸 小玩具
-      url: toys
-      weight: 15
     - identifier: archives
       name: ⏱️ 时间轴
       url: archives/
