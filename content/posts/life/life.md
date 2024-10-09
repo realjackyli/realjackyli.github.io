@@ -1,5 +1,5 @@
 ---
-title: "Life"
+title: "初次见面，请多关照！"
 date: 2024-05-05T11:45:14+08:00
 lastmod: 2024-05-05T11:45:14+08:00
 author: ["Sulv"]
@@ -8,8 +8,8 @@ keywords:
 categories: 
 - 
 tags: 
-- 初次见面，请多关照！
-description: ""
+- test
+description: "谁家笨橘子（）"
 weight:
 slug: ""
 draft: false # 是否为草稿
@@ -28,6 +28,6 @@ cover:
     relative: false
 ---
 
-
+hello！橘子的秘密基地已开放！欢迎来捧场呀~
 
 
