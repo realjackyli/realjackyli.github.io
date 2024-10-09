@@ -107,12 +107,12 @@ params:
     - name: github
       url: "https://github.com/realjackyli"
     - name: twitter
-      url: "img/twitter.png"
+      url: "https://twitter.com/realjackyli"
     - name: facebook
       url: ""
     - name: bilibili
-      url: ""
-    - name: email
+      url: "https://space.bilibili.com/340384184"
+    - name: steam
       url: ""
     - name: RSS
       url: "index.xml"
