@@ -27,7 +27,7 @@ permalinks: # 访问博客时网址的显示形式
   # post: "/:year/:month/:day/:title/"
 
 defaultContentLanguage: zh # 最顶部首先展示的语言页面
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 menu:
   main:
@@ -108,8 +108,8 @@ params:
       url: "https://github.com/realjackyli"
     - name: twitter
       url: "https://twitter.com/realjackyli"
-    - name: onlyfans
-      url: ""
+    - name: twitch
+      url: "https://www.twitch.tv/realjackyli"
     - name: bilibili
       url: "https://space.bilibili.com/340384184"
     - name: steam
