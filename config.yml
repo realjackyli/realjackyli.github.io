@@ -1,6 +1,6 @@
 baseURL: https://realjackyli.github.io/ # 绑定的域名
 languageCode: zh # en-us
-title: 橘子的秘密基地
+title: MissOrange
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
