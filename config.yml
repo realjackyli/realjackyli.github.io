@@ -55,6 +55,10 @@ menu:
       name: 💬 留言板
       url: message
       weight: 50
+    - identifier: toys
+      name: 🧸 小玩具
+      url: toys
+      weight: 50
 outputs:
   home:
     - HTML
