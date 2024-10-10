@@ -90,7 +90,7 @@ params:
   profileMode:
     enabled: true
     title: Hi! My Name Is Orange!
-    subtitle: "『差不多先生 我的差不多是天生<br/>代表我很天真 也代表我是个贱人<br/>这差不多的人生 总在见缝插针』<br/> —— Mc Hotdog 《差不多先生 🅴 》"
+    subtitle: "『拥有橘子女仆的力量 ，我是无敌的！』"
     imageUrl: "img/orange.jpg"
     imageTitle:
     imageWidth: 150
