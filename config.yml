@@ -47,18 +47,19 @@ menu:
       name: ⏱️ 时间轴
       url: archives/
       weight: 20
-    - identifier: about
-      name: 🙋🏻‍♂️ 关于
-      url: about
+    - identifier: toys
+      name: 🧸 小玩具
+      url: toys
       weight: 50
     - identifier: message
       name: 💬 留言板
       url: message
       weight: 50
-    - identifier: toys
-      name: 🧸 小玩具
-      url: toys
+    - identifier: about
+      name: 🙋🏻‍♂️ 关于
+      url: about
       weight: 50
+    
 outputs:
   home:
     - HTML
