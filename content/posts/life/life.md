@@ -13,7 +13,7 @@ description: "谁家笨橘子（）"
 weight:
 slug: ""
 draft: false # 是否为草稿
-comments: true
+comments: false
 reward: false # 打赏
 mermaid: true #是否开启mermaid
 showToc: false # 显示目录
