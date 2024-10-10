@@ -24,7 +24,7 @@ cover:
 
 <p style="font-size: 25px;">关于我</p>
 Hello~这里是又菜又爱玩的废物橘子~<br/>
-<p style="font-size: 25px;">关于我的电脑:</p><br/>
+<p style="font-size: 25px;">关于我的电脑:</p>
 Lenovo ThinkPad E15 Gen3<br/>
 AMD Ryzen 5 5600U@2.30 GHz<br/>
 AMD Radeon Graphics<br/>
