@@ -19,7 +19,7 @@ mermaid: true #是否开启mermaid
 showToc: false # 显示目录
 TocOpen: false # 自动展开目录
 hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
-disableShare: false # 底部不显示分享栏
+disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 cover:
     image: "posts/life/cover/1/123.jpeg" #图片路径例如：posts/life/1/123.png
@@ -28,7 +28,7 @@ cover:
     relative: false
 ---
 
-```html
-<p>hello！橘子的秘密基地已开放！欢迎来捧场呀~</p>
+```
+hello！橘子的秘密基地已开放！欢迎来捧场呀~
 ```
 
