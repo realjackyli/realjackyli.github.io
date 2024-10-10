@@ -51,7 +51,10 @@ menu:
       name: 🙋🏻‍♂️ 关于
       url: about
       weight: 50
-
+    - identifier: message
+      name: 💬 留言板
+      url: message
+      weight: 50
 outputs:
   home:
     - HTML
