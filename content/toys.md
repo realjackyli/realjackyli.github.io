@@ -22,4 +22,5 @@ disableShare: true # 底部不显示分享栏
 showbreadcrumbs: false #顶部显示路径
 ---
 <b1>这里放橘子的小玩具捏，都在github里面发布了！</b1>
+<hr />
 <a href="https://realjackyli.github.io/Draw/">随机抽号机 (需自备Excel文件) [github.com]</a>
