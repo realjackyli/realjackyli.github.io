@@ -106,7 +106,7 @@ params:
     buttons:
       - name: 👨🏻‍💻 技术
         url: posts/tech
-      - name: 📕 阅读
+      - name: 🎮 评测
         url: posts/read
       - name: 🗣 瞎78聊
         url: posts/life
