@@ -23,7 +23,7 @@ minify:
   # minifyOutput: true
 
 permalinks: # 访问博客时网址的显示形式
-  post: "/:title/"
+  post: "现在是：/:year/:month/:day/:title/"
   # post: "/:year/:month/:day/:title/"
 
 defaultContentLanguage: zh # 最顶部首先展示的语言页面
