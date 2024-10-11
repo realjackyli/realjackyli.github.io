@@ -126,7 +126,7 @@ params:
       url: "index.xml"
 
   label: # 左上角图标
-    text: "Orange's Blog"
+    text: "MissOrange's Blog"
     icon: "img/head.jpg"
     iconHeight: 35
 
