@@ -17,15 +17,15 @@ draft: false # 是否为草稿
 comments: true
 reward: false # 打赏
 mermaid: true #是否开启mermaid
-showToc: true # 显示目录
+showToc: false # 显示目录
 TocOpen: false # 自动展开目录
 hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
 disableShare: true # 底部不显示分享栏
 showbreadcrumbs: true #顶部显示路径
 cover:
-    image: "" #图片路径例如：posts/tech/123/123.png
-    caption: "" #图片底部描述
-    alt: ""
+    image: "https://t10pgalleryv2.azureedge.net/galleryv2images/b58191d0-26c7-48a8-a046-e18a71af8a35/e951b2db-b920-4a3c-8129-f899bb39df98/2" #图片路径例如：posts/tech/123/123.png
+    caption: "Forza Horizon 4 ScreenShot By.@realjackyli" #图片底部描述
+    alt: "title：GTR With Miku"
     relative: false
 ---
 
