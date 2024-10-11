@@ -45,5 +45,5 @@ cover:
   <strong>既然如此，让我们好好的向这款游戏告别。</strong><br>
 <hr>
 脚注链接：<br>
-  [^1] <p src="https://store.steampowered.com/news/app/1293830?emclan=103582791469325448&emgid=4185613970227394261">Forza Horizon 4 - Steam 新聞中心</p><br>
-  [^2] <p src="https://www.gamersky.com/news/202210/1523925.shtml">《极限竞速：地平线4》官方澄清游戏即将下架：短期内不会 _ 游民星空 GamerSky.com</p><br>
+  [^1] <a href="https://store.steampowered.com/news/app/1293830?emclan=103582791469325448&emgid=4185613970227394261">Forza Horizon 4 - Steam 新聞中心</a><br>
+  [^2] <a href="https://www.gamersky.com/news/202210/1523925.shtml">《极限竞速：地平线4》官方澄清游戏即将下架：短期内不会 _ 游民星空 GamerSky.com</a><br>
