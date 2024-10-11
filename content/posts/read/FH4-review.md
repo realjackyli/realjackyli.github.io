@@ -25,7 +25,7 @@ showbreadcrumbs: true #顶部显示路径
 cover:
     image: "https://t10pgalleryv2.azureedge.net/galleryv2images/b58191d0-26c7-48a8-a046-e18a71af8a35/e951b2db-b920-4a3c-8129-f899bb39df98/2" #图片路径例如：posts/tech/123/123.png
     caption: "" #图片底部描述
-    alt: "Forza Horizon 4 ScreenShot By.@realjackyli Title：GTR With Miku"
+    alt: ""
     relative: false
 ---
 
