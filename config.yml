@@ -59,6 +59,10 @@ menu:
       name: 🙋🏻‍♂️ 关于
       url: about
       weight: 70
+    - identifier: friends
+      name: 🙋🏻‍♂️ 橘子和他的朋友们
+      url: about
+      weight: 80
     
 outputs:
   home:
@@ -122,6 +126,8 @@ params:
       url: "https://space.bilibili.com/340384184"
     - name: steam
       url: "https://steamcommunity.com/id/realjackyli/"
+    - name: spotify
+      url: "https://open.spotify.com/user/31tvewyusrp64gsig734psnlc3pa"
     - name: RSS
       url: "index.xml"
 
