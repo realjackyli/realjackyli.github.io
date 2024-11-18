@@ -61,7 +61,7 @@ menu:
       weight: 70
     - identifier: friends
       name: 🙋🏻‍♂️ 橘子和他的朋友们
-      url: about
+      url: friends
       weight: 80
     
 outputs:
